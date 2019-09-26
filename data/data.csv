@@ -1,26 +1,51 @@
-sentence
-"British Telecom is planning to launch Qumu as a platform reseller and service provider focused on large enterprises globally signed a platinum -- has signed as a platinum partner, and we recently conducted a joint webcast from the show floor of Infocom using Qumu Cloud and their ReadyCam product."
-"Also in this quarter, the first WattUp-enabled hearing aid product was announced by the Korean company Delight, working in conjunction with our long-standing partner SK Telesys."
-"In September, SEAT will expand its SUV range with the new Tarraco, enabling us to reach new customers."
-"The new Jetta being launched now by SEAT and they are still presenting in this segment in the sedan segment, which they think also will help them because it comes with better margin than the predecessor model, and it's a very modern and up-to-date product, which should help the brand also to achieve some volume targets and market share."
-"The employee from Fiat contributed personally to the launch of a series of successful products like Fiorino, Doblo and Tipo."
-"We believe that later this year, Qualcomm and MediaTek will likely launch new upgraded processors with mainstream smartphones that support UMCP, single-chip embedded memory that contain NAND flash, mobile DRAM and UFS controllers."
-"Just over a year ago, Nvidia launched their Speech Technology product, their landmark technology innovation born out of significant complex engineering involving natural language processing, machine learning and artificial intelligence."
-"Earlier this month, we worked with King Long Motors to launch the first fully autonomous Level 4 minibus, Apollo, a shuttlebus viewed without steering wheel. technology also launched an L4 vehicle powered by Apollo, a minicar for cargo deliveries this month."
-Matahari Department Store anticipate releasing their new updated Matahari app by the end of the year.
-"In addition, VMWare Inc introduced VMware Cloud on AWS GovCloud, a forthcoming hybrid cloud service that will enable United States public sector agencies to deploy and run applications on VMware software on AWS GovCloud."
-"In November of 2017, UBS first launched NextShares product."
-"Gruppo launched a brand-new version of Smart Mobile banking in March and support fingerprint authentication, facial recognition and the mobile token allowing for high service efficiency and a better customer experience."
-"Alibaba Cloud launched more than 660 new products and features during the quarter, including a language-based document and analysis tools, hybrid disaster recovery for prices and big data analytical tools."
-"The Qantas Premier Platinum card, which was launched last July by Qantas Money, has performed beyond expectations."
-"Gaming Innovation Group launched the company's platform service GiG Core into the regulated U.S. market of New Jersey, the toughest jurisdiction to get certified."
-"So in the second quarter of 2017, Correvio Pharma Corp launched Aggrastat in South Africa with their partner Aspen, so there was a large initial prestocking order in Q2 of 2017."
-"This year, the Cheer brand, which was launched by DCH in 2012, achieved significant brand awareness and delivered strong performance following the launch of new products, including drinking yogurts, mostly an organic cereal."
-"Mercury NZ Ltd. also just launched their Mercury app, Mercury Go, which integrates lot of good functionality."
-"LG announced its first hybrid smartwatch, the LG Watch W7, a wearable device that combines mechanical hands with digital functionalities."
-"Apple CEO Tim Cook is expected to announce the new iPhone Xs lineup"
-"Facebook first revealed this AI-based Pattern Recognition technology in March."
-"Microsoft launched a new program designed to help startups get off the ground and into Microsoft's ecosystem of cloud services on Monday, overhauling its BizSpark program and giving it a catchy new name."
-"Toyota has introduced a new version of the car with clear, sharp lines and enough aggressive styling to separate itself from past generations."
-"Nissan launches Terra S at 2018 Philippine Motor Show"
-"October 04: Vox media to launch new Facebook Watch show 'consider it' on October 4"
+sentence,company,product
+"British Telecom is planning to launch Qumu as a platform reseller and service provider focused on large enterprises globally signed a platinum -- has signed as a platinum partner, and we recently conducted a joint webcast from the show floor of Infocom using Qumu Cloud and their ReadyCam product.",British Telecom,Qumu
+"Also in this quarter, the first WattUp enabled hearing aid product was announced by the Korean company Delight, working in conjunction with our long-standing partner SK Telesys.",Delight,WattUp
+"In September, SEAT will expand its SUV range with the new Tarraco, enabling us to reach new customers.",SEAT,Tarraco
+"The new Jetta being launched now by SEAT and they are still presenting in this segment in the sedan segment, which they think also will help them because it comes with better margin than the predecessor model, and it's a very modern and up-to-date product, which should help the brand also to achieve some volume targets and market share.",SEAT,Jetta
+"The employee from Fiat contributed personally to the launch of a series of successful products like Fiorino, Doblo and Tipo.",Fiat,Fiorino
+"We believe that later this year, Qualcomm and MediaTek will likely launch new upgraded processors with mainstream smartphones that support UMCP, single-chip embedded memory that contain NAND flash, mobile DRAM and UFS controllers.",Qualcomm,new upgraded processors
+"Just over a year ago, Nvidia launched their Speech Technology product, their landmark technology innovation born out of significant complex engineering involving natural language processing, machine learning and artificial intelligence.",Nvidia,Speech Technology
+"Earlier this month, we worked with King Long Motors to launch the first fully autonomous Level 4 minibus, Apollo, a shuttlebus viewed without steering wheel. technology also launched an L4 vehicle powered by Apollo, a minicar for cargo deliveries this month.",King Long Motors,Apollo
+Matahari Department Store anticipate releasing their new updated Matahari App by the end of the year.,Matahari Department Store,Matahari app
+"In addition, VMWare Inc introduced VMware Cloud on AWS GovCloud, a forthcoming hybrid cloud service that will enable United States public sector agencies to deploy and run applications on VMware software on AWS GovCloud.",VMWare Inc,VMware Cloud
+"In November of 2017, UBS first launched NextShares product.",UBS,NextShares
+"Gruppo launched a brand-new version of Smart Mobile Banking in March and support fingerprint authentication, facial recognition and the mobile token allowing for high service efficiency and a better customer experience.",Gruppo,Smart Mobile Banking
+Alibaba Cloud announces X-Dragon Architecture.,Alibaba Cloud,X-Dragon Architecture
+"The Qantas Premier Platinum Card, which was launched last July by Qantas Money, has performed beyond expectations.",Qantas Money,The Qantas Premier Platinum Card
+"Gaming Innovation Group launched the company's platform service GiG Core into the regulated U.S. market of New Jersey, the toughest jurisdiction to get certified.",Gaming Innovation Group,GiG Core
+"So in the second quarter of 2017, Correvio Pharma Corp launched Aggrastat in South Africa with their partner Aspen, so there was a large initial prestocking order in Q2 of 2017.",Correvio Pharma Corp,Aggrastat
+"This year, the Cheer Brand, which was launched by DCH in 2012, achieved significant brand awareness and delivered strong performance following the launch of new products, including drinking yogurts, mostly an organic cereal.",DCH,Cheer Brand
+"Mercury NZ Ltd. also just launched their Mercury app, Mercury Go, which integrates lot of good functionality.",Mercury NZ Ltd.,Mercury app
+"LG announced the LG Watch W7, a wearable device that combines mechanical hands with digital functionalities.",LG,LG Watch W7
+Apple CEO Tim Cook is expected to announce the new iPhone Xs lineup,Apple,iPhone Xs
+Facebook first revealed this AI-based Pattern Recognition technology in March.,Facebook,AI-based Pattern Recognition technology
+"Microsoft launched a new program designed to help startups get off the ground and into Microsoft's ecosystem of cloud services on Monday, overhauling its BizSpark program and giving it a catchy new name.",Microsoft,program
+"Toyota has introduced Prius with clear, sharp lines and enough aggressive styling to separate itself from past generations.",Toyota,Prius
+Nissan launches Terra S at 2018 Philippine Motor Show,Nissan,Terra S
+October 04: Vox Media to launch new Facebook Watch show on October 4,Vox Media,Facebook Watch show
+"In May, Intact Insurance launched the Intact Insurance mobile app across the country.",Intact Insurance,Intact Insurance mobile app
+Articulture Inc launched the AtriClip FLEX V device in March of 2018 and realized an immediate contribution in the Q2 results.,Articulture Inc,AtriClip FLEX V device
+"Zhejiang Uniview Technologies Co., Ltd. launched UniView.","Zhejiang Uniview Technologies Co., Ltd.",UniView
+Neolix Technology also launched an L4 vehicle powered by Apollo -- minicar for cargo deliveries this month.,Neolix Technology,L4 vehicle
+"Cannondale introduced the F-Si cross-county race bike, launching at a well-attended media event in Germany.",Cannondale,F-Si
+Iberia launched service to San Francisco.,Iberia,service
+Alexa was released earlier by Amazon Inc.,Amazon Inc,Alexa
+Netflix will be launching the Disney app.,Netflix,Disney app
+Netflix to launch the Disney streaming service,Netflix,Disney streaming service
+Galenica introduced a new service: Generics Check.,Galenica,Generics Check
+Albany International Corp. launched Machine Clothing,Albany International Corp., Machine Clothing
+"The 1 GB device was launched by Everspin Technologies, Inc.","Everspin Technologies, Inc",1 GB device
+"Everspin Technologies, Inc. launched the 1 GB device.","Everspin Technologies, Inc",1 GB device
+Liberty Media Corporation released OTT product.,Liberty Media Corporation,OTT
+Tresiba have just launched a new DTC campaign.,Tresiba,DTC campaign
+ObjectVideo officially launch a video analytics service,ObjectVideo,video analytics service
+"In fall last year, SMA Solar Technology launched the all new Sunny Tripower CORE1",SMA Solar Technology,Sunny Tripower CORE1
+Catena Media p.l.c just launched John Slots into Spain in the end of June.,Catena Media p.l.c,John Slots
+Sunrun Inc. officially launched BrightBox in Florida.,Sunrun Inc.,BrightBox
+The first one would be the introduction of SAP HANA by Polytec Holding AG.,Polytec Holding AG,SAP HANA
+HealthCare Global Enterprises Limited have launched Whitefield.,HealthCare Global Enterprises Limited,Whitefield
+HealthCare Global Enterprises Limited have introduced Whitefield.,HealthCare Global Enterprises Limited,Whitefield
+HealthCare Global Enterprises Limited have released Whitefield.,HealthCare Global Enterprises Limited,Whitefield
+HealthCare Global Enterprises Limited have announced Whitefield.,HealthCare Global Enterprises Limited,Whitefield
+Inpixon looks forward to build out IPA Pod to their beta customers in Q3 2018.,Inpixon,IPA Pod
